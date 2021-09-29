@@ -25,7 +25,7 @@ In this repository you can find some projects that I have developed for companie
 [![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/ofaaoficial/)](https://github.com/ofaaoficial/)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/ofaaoficial/)](https://github.com/ofaaoficial/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ofaaoficial/)](https://github.com/ofaaoficial/)
-[![Next.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=next.js&logoColor=white&link=https://github.com/ofaaoficial/)](https://github.com/ofaaoficial/)
+[![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white&link=https://github.com/ofaaoficial/)](https://github.com/ofaaoficial/)
 
 ## CMS
 [![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&link=https://github.com/ofaaoficial/)](https://github.com/ofaaoficial/)
