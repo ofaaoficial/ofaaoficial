@@ -12,32 +12,8 @@ In this repository you can find some projects that I have developed for companie
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/ofaaoficial/)![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/ofaaoficial/)![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=e0234e&link=https://github.com/ofaaoficial/)
 
 ### Basic
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=f7cf44&link=https://github.com/ofaaoficial/) ![Golang](https://img.shields.io/badge/-Golang-white?style=flat-square&logo=go&logoColor=#00d0ce&link=https://github.com/ofaaoficial/)
 
-#### Activities or projects developed
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=f7cf44&link=https://github.com/ofaaoficial/) 
-* Configuration
-* venv
-* Restful API
-	* Own implementation of clean architecture
-	* FastAPI
-	* Uvicorn
-	* Python-dotenv
-	* SQLAlchemy
-	* Mangum
-	
-![Golang](https://img.shields.io/badge/-Golang-white?style=flat-square&logo=go&logoColor=#00d0ce&link=https://github.com/ofaaoficial/)
-* Configuration
-* WSL2 integration to Windows 10
-* Syntax and implementation of basic things
-	* Variables and data structures
-	* Loops
- 	* Packages
-	* Routines
-	* Pointers
-	* Channels
-	* Conditionals
-	* Functional programming
-	* Object oriented programming
 
 ## Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ofaaoficial/)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/ofaaoficial/)![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/ofaaoficial/)![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&link=https://github.com/ofaaoficial/)![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=material-ui&link=https://github.com/ofaaoficial/)
